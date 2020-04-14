@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeHRM Test Automation Suite" duration-ms="42886" started-at="2020-04-11T15:06:19 BST" finished-at="2020-04-11T15:07:02 BST">
+    <groups>
+    </groups>
+    <test name="POM Test" duration-ms="42886" started-at="2020-04-11T15:06:19 BST" finished-at="2020-04-11T15:07:02 BST">
+      <class name="com.orange.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="setUp" is-config="true" duration-ms="5960" started-at="2020-04-11T15:06:40 BST" finished-at="2020-04-11T15:06:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="loginPageTitleTest" duration-ms="22" started-at="2020-04-11T15:06:46 BST" finished-at="2020-04-11T15:06:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="tearDown" is-config="true" duration-ms="1053" started-at="2020-04-11T15:06:46 BST" finished-at="2020-04-11T15:06:47 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="setUp" is-config="true" duration-ms="5304" started-at="2020-04-11T15:06:47 BST" finished-at="2020-04-11T15:06:52 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="forgotPasswordLinkTest()[pri:2, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="forgotPasswordLinkTest" duration-ms="151" started-at="2020-04-11T15:06:52 BST" finished-at="2020-04-11T15:06:53 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="tearDown" is-config="true" duration-ms="687" started-at="2020-04-11T15:06:53 BST" finished-at="2020-04-11T15:06:53 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="setUp" is-config="true" duration-ms="5834" started-at="2020-04-11T15:06:53 BST" finished-at="2020-04-11T15:06:59 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="loginTest" duration-ms="2356" started-at="2020-04-11T15:06:59 BST" finished-at="2020-04-11T15:07:01 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.qa.testcases.LoginPageTest@10bbd20a]" name="tearDown" is-config="true" duration-ms="759" started-at="2020-04-11T15:07:01 BST" finished-at="2020-04-11T15:07:02 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orange.qa.testcases.LoginPageTest -->
+      <class name="com.orange.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.qa.testcases.HomePageTest@64729b1e]" name="setUp" is-config="true" duration-ms="8739" started-at="2020-04-11T15:06:19 BST" finished-at="2020-04-11T15:06:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.orange.qa.testcases.HomePageTest@64729b1e]" name="verifyHomePageTitleTest" duration-ms="32" started-at="2020-04-11T15:06:28 BST" finished-at="2020-04-11T15:06:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.qa.testcases.HomePageTest@64729b1e]" name="tearDown" is-config="true" duration-ms="691" started-at="2020-04-11T15:06:28 BST" finished-at="2020-04-11T15:06:29 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.orange.qa.testcases.HomePageTest@64729b1e]" name="setUp" is-config="true" duration-ms="7493" started-at="2020-04-11T15:06:29 BST" finished-at="2020-04-11T15:06:36 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyRecruitmentLinkTest()[pri:2, instance:com.orange.qa.testcases.HomePageTest@64729b1e]" name="verifyRecruitmentLinkTest" duration-ms="2964" started-at="2020-04-11T15:06:36 BST" finished-at="2020-04-11T15:06:39 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRecruitmentLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orange.qa.testcases.HomePageTest@64729b1e]" name="tearDown" is-config="true" duration-ms="720" started-at="2020-04-11T15:06:39 BST" finished-at="2020-04-11T15:06:40 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orange.qa.testcases.HomePageTest -->
+    </test> <!-- POM Test -->
+  </suite> <!-- OrangeHRM Test Automation Suite -->
+</testng-results>

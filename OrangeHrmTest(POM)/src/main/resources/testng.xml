@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name= "OrangeHRM Test Automation Suite">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test name= "POM Test">
+	
+		<classes>
+			<class name= "com.orange.qa.testcases.HomePageTest" />
+			<class name= "com.orange.qa.testcases.LoginPageTest" />
+			</classes>
+	</test>
+</suite>
